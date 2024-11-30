@@ -1,5 +1,3 @@
-### [Ссылка]() на сделанное задание (сайт на github Pages, использованы React + Vite)
-
 ### Демонстрация сделанного задания:
 ![](https://github.com/Auzmit/test-assignment_ToDo-list_vite-project/blob/main/src/demonstration.gif)
 
