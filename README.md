@@ -1,4 +1,14 @@
-[Ссылка]() на сделанное задание (сайт на github Pages, использованы React + Vite)
+### [Ссылка]() на сделанное задание (сайт на github Pages, использованы React + Vite)
+
+### Демонстрация сделанного задания:
+![](https://github.com/Auzmit/test-assignment_ToDo-list_vite-project/blob/main/src/demonstration.gif)
+
+# Как запустить?
+1) После того, как скачан репозиторий запустить в консоли команду:
+```
+npm run dev
+```
+2) Открыть ссылку, которая появится в консоли
 
 <br>
 
